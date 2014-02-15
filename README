@@ -1,0 +1,17 @@
+Tic-Tac-Toe
+===========
+
+Documentation
+-------------
+For documentation please see the assignment6 file available in markdown, html, and pdf formats.
+
+Compilation
+-----------
+There is a makefile available to compile the program. Run:
+	$ make
+And an executable named `tictactoe` will be created.
+Alternately, the program can be compilled with the command:
+	$ c++ ./main.cpp -o tictactoe
+In this example the `c++` command is your compiler of choice. The program was tested against clang++ version 3.3 and g++ version 4.8.2.
+
+

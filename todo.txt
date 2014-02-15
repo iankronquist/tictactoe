@@ -1,0 +1,5 @@
+draw function is  broken
+ai adjacent function broken
+ai check for imminent defeat broken
+ai random point broken
+invalid input Ctrl-d, ctrl-c
