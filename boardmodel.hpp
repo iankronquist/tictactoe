@@ -10,8 +10,8 @@ Description: Defines a class which implements a datastructure
 #ifndef BOARDMODEL_H
 #define BOARDMODEL_H
 #include <iostream>
-#include "point.h"
-#include "invalidsquareexception.h"
+#include "point.hpp"
+#include "invalidsquareexception.hpp"
 #include <assert.h>
 
 class BoardModel

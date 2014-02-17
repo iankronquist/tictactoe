@@ -7,9 +7,9 @@ Description: Defines a class subclassing player which gets and
 ********************************************************************/
 
 #include <iostream>
-#include "inputControl.h"
-#include "invalidinputexception.h"
-#include "player.h"
+#include "inputControl.hpp"
+#include "invalidinputexception.hpp"
+#include "player.hpp"
 #include <string>
 
 using namespace std;

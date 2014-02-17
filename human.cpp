@@ -6,7 +6,7 @@ Description: Implements a class which subclasses a player and gets
 	and validates the point on the board which the user chooses
 ********************************************************************/
 
-#include "human.h"
+#include "human.hpp"
 #include <iostream>
 
 Human::Human(BoardModel* boardIn)

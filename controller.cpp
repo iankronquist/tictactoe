@@ -5,7 +5,7 @@ Date: 2013-12-31
 Description: Implements a class which controls the programs flow.
 ********************************************************************/
 
-#include "controller.h"
+#include "controller.hpp"
 #include <stdio.h>
 
 Controller::Controller()

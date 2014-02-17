@@ -9,7 +9,7 @@ Description: Implements a class which includes a datastructure to
 
 #ifndef BOARDMODEL_CPP
 #define BOARDMODEL_CPP
-#include "boardmodel.h"
+#include "boardmodel.hpp"
 #include <stdio.h>
 
 BoardModel::BoardModel(){}

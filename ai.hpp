@@ -1,15 +1,15 @@
 /*********************************************************************
-Program Filename: ai.h
+Program Filename: ai.hpp
 Author: Ian Kronquist
 Date: 2013-12-31
 Description: Defines the interface for an algorithm to play tic-tac-toe which 
         subclasses player.
 ********************************************************************/
 
-#include "point.h"
+#include "point.hpp"
 #include "boardmodel.cpp"
-#include "player.h"
-#include "noimminentvictoryexception.h"
+#include "player.hpp"
+#include "noimminentvictoryexception.hpp"
 #include <iostream>
 #include <vector>
 #include <cstdlib>

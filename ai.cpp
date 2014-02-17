@@ -6,7 +6,7 @@ Description: Implements an algorithm to play tic-tac-toe which
 	subclasses player.
 ********************************************************************/
 
-#include "ai.h"
+#include "ai.hpp"
 #include <stdio.h>
 
 Ai::Ai(BoardModel* boardIn)

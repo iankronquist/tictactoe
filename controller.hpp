@@ -1,13 +1,13 @@
 /*********************************************************************
-Program Filename: controller.h
+Program Filename: controller.hpp
 Author: Ian Kronquist
 Date: 2013-12-31
 Description: Defines a class which controls the programs flow.
 ********************************************************************/
 
 #include <iostream>
-#include "inputControl.h"
-#include "point.h"
+#include "inputControl.hpp"
+#include "point.hpp"
 #include "boardmodel.cpp"
 #include "ai.cpp"
 #include "human.cpp"

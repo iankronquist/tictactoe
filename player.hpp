@@ -8,7 +8,7 @@ Description: Defines a virtual (aka abstract) class representing a
 
 #ifndef PLAYER_H
 #define PLAYER_H
-#include "point.h"
+#include "point.hpp"
 #include "boardmodel.cpp"
 /**********************************************************
 Class: Player
